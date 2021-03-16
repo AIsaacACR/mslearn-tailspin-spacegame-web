@@ -14,7 +14,7 @@ resources:
     endpoint: AIsaacACR
     #For add or find Github service connection, Go to Project Settings, select Service Connections on left navigation, copy the name of the github service connection if you can find in the list, 
     # if not, click New Service Connection, Select Github to create a service connection.
-    name: ACRCode/ADOCS-templates
+    name: ILiuACR/shared-azure-pipeline-templates
     branch: master
 
 #define variables
